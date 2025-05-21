@@ -15,8 +15,8 @@ To write a python program to implement quick sort using tha last element as pivo
 ```
 /*
 Program to implement implement quick sort using the last element as pivot on the list of string values.
-Developed by: ARUN KUMAR SUKDEV CHAVNA
-Register Number: 212222230013
+Developed by: DINESH KARTHICK K J
+Register Number: 212222100011
 */
 ```
 ```
