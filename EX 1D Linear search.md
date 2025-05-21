@@ -12,8 +12,8 @@ To write a python program for a search function with parameter list name and the
 ```
 /*
 Program to implement a search function with parameter list name and the value to be searched using float values.
-Developed by: ARUN KUMAR SUKDEV CHAVAN 
-Register Number: 212222230013
+Developed by:  DINESH KARTHICK K J
+Register Number: 212222100011
 */
 ```
 ```
